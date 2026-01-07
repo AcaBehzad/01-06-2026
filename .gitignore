@@ -1,0 +1,8 @@
+#MAC OS Operational Files
+.DS_Store
+
+#Python virtual env
+.venv/
+__pycache__/
+*.pyc
+.env
